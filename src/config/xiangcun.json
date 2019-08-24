@@ -1,0 +1,163 @@
+{
+	"小炒类":[
+      {
+			"name": "手撕包菜",
+			"price": 11,
+			"isRed": false
+		},
+		{
+			"name": "腐竹炒肉",
+			"price": 14,
+			"isRed": false
+		},
+		{
+			"name": "土豆片炒肉",
+			"price": 15,
+			"isRed": false
+		},
+		{
+			"name": "韭菜炒肉",
+			"price": 13,
+			"isRed": false
+		},
+		{
+			"name": "肉末茄子",
+			"price": 13,
+			"isRed": false
+		},
+		{
+			"name": "糖醋肉",
+			"price": 20,
+			"isRed": false
+		},
+		{
+			"name": "回锅肉",
+			"price": 16,
+			"isRed": false
+		}
+	],
+    "水煮类":[
+        {
+          "name": "水煮肉片",
+          "price": 20,
+          "isRed": false
+		},{
+          "name": "水煮鱼片",
+          "price": 20,
+          "isRed": false
+		},{
+          "name": "酸菜鱼片",
+          "price": 20,
+          "isRed": false
+		},{
+          "name": "水煮鸭腱",
+          "price": 22,
+          "isRed": false
+		},{
+          "name": "水煮肥肠",
+          "price": 24,
+          "isRed": false
+		},{
+          "name": "水煮鸭腱",
+          "price": 22,
+          "isRed": false
+		},{
+          "name": "水煮田鸡",
+          "price": 24,
+          "isRed": false
+		},{
+          "name": "水煮牛肉",
+          "price": 25,
+          "isRed": false
+		},{
+          "name": "水煮活鱼",
+          "price": 25,
+          "isRed": false
+		},{
+          "name": "泡椒田鸡",
+          "price": 30,
+          "isRed": false
+		}
+    ],
+    "煲仔类":[
+        {
+          "name": "肉末豆腐煲",
+          "price": 15,
+          "isRed": false
+		},{
+          "name": "家常豆腐煲",
+          "price": 16,
+          "isRed": false
+		},{
+          "name": "日本豆腐煲",
+          "price": 16,
+          "isRed": false
+		},{
+          "name": "茄子煲",
+          "price": 16,
+          "isRed": false
+		},{
+          "name": "猪血肥肠煲",
+          "price": 20,
+          "isRed": false
+		}
+    ],
+    "干锅类":[
+        {
+          "name": "干锅包菜",
+          "price": 18,
+          "isRed": false
+		},{
+          "name": "干锅花菜",
+          "price": 18,
+          "isRed": false
+		},{
+          "name": "干锅土豆",
+          "price": 20,
+          "isRed": false
+		},{
+          "name": "干锅肥肠",
+          "price": 25,
+          "isRed": false
+		},{
+          "name": "干锅田鸡",
+          "price": 20,
+          "isRed": false
+		},{
+          "name": "干锅鸭腱",
+          "price": 25,
+          "isRed": false
+		},{
+          "name": "干锅鸡丁",
+          "price": 25,
+          "isRed": false
+		},{
+          "name": "干锅牛肉",
+          "price": 30,
+          "isRed": false
+		}
+    ],
+    "铁板类":[
+        {
+          "name": "铁板田鸡",
+          "price": 25,
+          "isRed": false
+		},{
+          "name": "铁板牛肉",
+          "price": 25,
+          "isRed": false
+		},{
+          "name": "铁板肥肠",
+          "price": 25,
+          "isRed": false
+		},{
+          "name": "铁板鸭腱",
+          "price": 25,
+          "isRed": false
+		},{
+          "name": "铁板鸡丁",
+          "price": 25,
+          "isRed": false
+		}
+    ]
+}
